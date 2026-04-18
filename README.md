@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Musawenkosi 👋
 
-<!--
-**musanyathi20/musanyathi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer & Data Analyst focused on building data-driven systems and automation pipelines.🎓
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Build automated data pipelines (Python, Pandas, PostgreSQL)
+- Develop REST APIs for data access
+- Create dashboards (Power BI)
+- Solve real-world problems using data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Python | SQL | PostgreSQL | Pandas | FastAPI | Power BI | Git
+
+## 📌 Featured Projects
+- Tender Data Pipeline → Scrapes, cleans, and stores municipal tender data
+- Fraud Detection Research → Exploring AI-generated voice detection
+
+## 📚 What im currently learning
+I’m currently deepening my skills in Data Engineering, focusing on building scalable and production-ready data systems.
+
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/musawenkosi-nyathi-6296b728a/
+Gmail: musanyathi20@gmail.com
